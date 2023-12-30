@@ -1,5 +1,3 @@
-// Challenge - Tasks
-// localStorage.clear()
 let input = document.querySelector("[name='task-name']");
 let btn = document.querySelector("[type='submit']");
 let screen = document.querySelector(".screen ul");
@@ -87,4 +85,4 @@ btn.addEventListener("click", (e) => {
     screen.parentElement.style.display = "none"
   }
 })
-// localStorage.clear()
+// localStorage.clear() => Used to clear all tasks (but remember to write it in the console)
