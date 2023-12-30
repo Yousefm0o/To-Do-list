@@ -10,4 +10,4 @@
     - Local storage to save the changes on tasks in the browser memory.
 
 Hope you enjoy using it & stay tuned for next versions with enhancing features.
-##### Made with love by Yousef Mohamed
+##### Made with ♥ by Yousef Mohamed
